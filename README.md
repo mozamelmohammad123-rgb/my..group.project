@@ -1,8 +1,9 @@
 # my..group.project
-Why is cybersecurity important for programmers?
+# Why is cybersecurity important for programmers?
 Cybersecurity is critical for programmers because it prevents costly data breaches, ensures compliance with privacy regulations, and protects user trust. By adopting a security-first mindset, developers can stop vulnerabilities at the source, saving countless hours of rework and shielding systems from malicious attacks.
-Here are 4 points what should programmers need to prioritize cybersecurity in their daily workflow for several key reasons:
+# Here are 4 points what should programmers need to prioritize cybersecurity in their daily workflow for several key reasons:
 Catching a security flaw during the coding or testing phase is significantly cheaper and easier than patching a system after a public release. By applying secure coding practices, programmers actively prevent common attack vectors like SQL injection, cross-site scripting (XSS), and buffer overflows.
 Programmers build the foundation of digital environments. Understanding cryptography, secure authentication, and access management ensures that user information—such as passwords, payment details, and personal data—remains confidential and is never leaked.
 A single major security breach can destroy an organization's reputation overnight. Programmers maintain the reliability and trustworthiness of software by building resilient systems that function exactly as intended, even when targeted by malicious actors.
 Software often operates in highly regulated industries. Developers must comply with strict data protection and cybersecurity norms. Integrating security during the Software Development Life Cycle (SDLC) ensures that the resulting applications meet these legal obligations.
+ [This is the link to the IBM ransom website](https://site.tanium.com/Ultimate-Guide-to-Risk-and-Compliance/?utm_source=google&utm_source_platform=google_ads&utm_medium=paid_search&utm_campaign={campaign}&utm_content=prospect&utm_id=701PI00002SeE9TYAV&utm_marketing_tactic=lead_generation&utm_creative_format=text&utm_term=security%20risk%20management&utm_asset=none&gad_source=1&gad_campaignid=23791206719&gbraid=0AAAAAC2n-2hkwCyk1-YNdHOtuJ64hdXdt&gclid=Cj0KCQjwi8nRBhDhARIsAHZf_pbu8PT6UEfS88gPNWXF9VgBRsT9D_YKoeghWnHfl6PhUlt_Kvf3410aAlXIEALw_wcB)

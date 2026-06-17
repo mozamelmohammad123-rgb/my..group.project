@@ -1,1 +1,8 @@
 # my..group.project
+Why is cybersecurity important for programmers?
+Cybersecurity is critical for programmers because it prevents costly data breaches, ensures compliance with privacy regulations, and protects user trust. By adopting a security-first mindset, developers can stop vulnerabilities at the source, saving countless hours of rework and shielding systems from malicious attacks.
+Here are 4 points what should programmers need to prioritize cybersecurity in their daily workflow for several key reasons:
+Catching a security flaw during the coding or testing phase is significantly cheaper and easier than patching a system after a public release. By applying secure coding practices, programmers actively prevent common attack vectors like SQL injection, cross-site scripting (XSS), and buffer overflows.
+Programmers build the foundation of digital environments. Understanding cryptography, secure authentication, and access management ensures that user information—such as passwords, payment details, and personal data—remains confidential and is never leaked.
+A single major security breach can destroy an organization's reputation overnight. Programmers maintain the reliability and trustworthiness of software by building resilient systems that function exactly as intended, even when targeted by malicious actors.
+Software often operates in highly regulated industries. Developers must comply with strict data protection and cybersecurity norms. Integrating security during the Software Development Life Cycle (SDLC) ensures that the resulting applications meet these legal obligations.
